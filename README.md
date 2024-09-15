@@ -2,6 +2,16 @@
 
 ![todo](images/todo.png)
 
+## Some dependencies
+
+This uses Pipenv for package management for Python and NPM for the React Frontend
+
+```bash
+pipenv shell
+pipenv install
+npm install
+```
+
 ## How to run
 
 Run the python server
